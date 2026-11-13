@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("RatDecoder")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IttihadGroup")]
+[assembly: AssemblyCompany("Z3")]
 [assembly: AssemblyProduct("RatDecoder")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
-[assembly: AssemblyTrademark("Coded by PR")]
+[assembly: AssemblyTrademark("Coded by Z3")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
